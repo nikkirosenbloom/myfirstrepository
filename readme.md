@@ -8,17 +8,18 @@ Let's make a link to [Wikipedia](https://www.wikipedia.org/).
 
 Things I like to do in Berkeley:
 
-* Stay safe
-* drink white claws
-* hike berkeley trails
+* Run away from crazy homeless people
+* Buy overpriced coffee
+* Hike on Berkeley fire trails
 
 My plans for the weekend are:
 
-1. finish assignments
-2. double check that i finished all of the assignments
-3. triple check that i finished assignments
+1. Finish assignments for J124
+2. Double check that I finished all of the assignments for J124
+3. Triple check that I finished all of the assignments for J124
 
 | Pie name | Number of pies |
 |----------|----------------|
 | Apple    | 82394023       |
-| Cherry.  | 23842029849084 |
+| Cherry   | 238449084      |
+| Banana   |  6300000       |
